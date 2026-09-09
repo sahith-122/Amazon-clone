@@ -1,7 +1,7 @@
 *{
     font-family: Arial;
     margin:0;
-    border: border-box;
+    box-sizing: border-box;
 
 }
 .navbar{
@@ -106,7 +106,7 @@ span{
 }
 .nav-cart{
     font-size: 0.85rem;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 /**panel**/
@@ -131,7 +131,7 @@ span{
 }
 .panel-deals{
     font-size: 0.9rem;  
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 /** HERO SECTION **/
@@ -183,7 +183,7 @@ span{
 .box-img{
     height: 300px;
    background-size:cover;
-   margin-top: age1rem;
+   margin-top: 1rem;
    margin-bottom: 1rem;
 
 
